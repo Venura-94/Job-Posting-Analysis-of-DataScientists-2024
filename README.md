@@ -19,3 +19,6 @@
 # Final App
 
 ![Streamlit](https://github.com/Venura-94/Job-Posting-Analysis-of-DataScientists-2024/assets/137409412/986fc060-3e4e-49f6-b0bf-f9e71dfb5877)
+
+![image](https://github.com/Venura-94/Job-Posting-Analysis-of-DataScientists-2024/assets/137409412/16d8e400-6ffb-4761-a7b6-8d6acb6ccf23)
+
